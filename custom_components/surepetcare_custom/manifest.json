@@ -1,5 +1,5 @@
 {
-  "domain": "surepetcare_custom",
+  "domain": "surepetcare",
   "name": "Sure Petcare Custom",
   "codeowners": ["@kokahontas13"],
   "config_flow": true,
