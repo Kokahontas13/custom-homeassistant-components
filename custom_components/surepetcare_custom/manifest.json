@@ -1,7 +1,7 @@
 {
-  "domain": "surepetcare",
+  "domain": "surepetcare_custom",
   "name": "Sure Petcare Custom",
-  "codeowners": ["@benleb", "@danielhiversen"],
+  "codeowners": ["@kokahontas13"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/surepetcare",
   "iot_class": "cloud_polling",
